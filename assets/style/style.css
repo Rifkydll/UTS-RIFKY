@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(#9a08dd 0%,#dd4c4f 40%,#7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150Px;
+}
+.profileimage{
+    width: 200px;
+}
+.profile h2 {
+    color: whitesmoke;
+}
+.profile h4 {
+    color: whitesmoke;
+    transform: translateY(-10px);
+}
+.profile p {
+    color: whitesmoke;
+}
+.datapribadi {
+    background: linear-gradient(#a885cc 0%,#c89f9f78 40%,#d0b3c2b4 100%);
+    padding-top: 100px;
+}
+.biodata {
+    background: linear-gradient(#f1f0f2 0%,#fbf7f778 40%,#f2eef0b4 100%);
+    padding-bottom: 255px;
+    padding-top: 200px;
+}
+.row {
+    padding: 0px 20px;
+}
+.Pengalaman {
+    background: linear-gradient(#a885cc 0%,#75454578 40%,#953f6ab4 100%);
+    padding-top: 55px;
+}
+.Skill {
+    background: linear-gradient(#f1f0f2 0%,#a6aba878 40%,#a4afacb4 100%);
+    padding-top: 150px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+.contact a {
+    color: black;
+    font-size: 20px;
+}
+.watermark {
+    padding-top: 20px;
+}
+.progres-bar {
+   text-decoration-color: black;
+}
